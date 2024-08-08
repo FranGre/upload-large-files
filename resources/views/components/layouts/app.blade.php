@@ -18,6 +18,9 @@
 <body class="font-sans antialiased 
 dark:bg-neutral-800 
 dark:text-white/50">
+
+    {{$slot}}
+
 </body>
 
 </html>
